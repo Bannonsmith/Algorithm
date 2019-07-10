@@ -1,0 +1,37 @@
+
+Algorithms
+
+Algorithms have guidelines.
+
+1st is a clear problem statement.
+(Make sure that the problem is clearly stated in the instrucitons)
+
+2nd  Must contain specific set of instructions in a particular order
+(Have to clear on how to go about using the algorithm)
+
+3rd  Each step should be clear. 
+(Each step should not be debateable, It should not be able to be broken
+into more steps )
+
+4th Should produce result
+
+5th should complete without using an infinite amout of time. 
+(If the program takes forever to give a result we may never know the result)
+
+consistent results
+
+
+
+SEARCH ALGORITHMS
+
+1 - Linear Search: One number after another. Goes in sequential order.
+Other names include: Sequential search, Simple search
+
+EX: Target number 7 
+Linear example: Is it 1,2,3,4,5,6,7
+
+
+2  - Binary Search: Break the task up into pieces
+
+Ex: Target number 7
+Binary example: Is it 5, "no to low", "is it 8", "to high", "is it 7"
