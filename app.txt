@@ -21,6 +21,13 @@ into more steps )
 consistent results
 
 
+Efficiency -  Can be measured by time and space
+(Time Complecity- measure of how long it takes the algorithm to run
+Space Complecity-  Amount of space the algorithm takes.)
+
+You always want to see the best and worst case scenario.
+
+
 
 SEARCH ALGORITHMS
 
@@ -31,7 +38,10 @@ EX: Target number 7
 Linear example: Is it 1,2,3,4,5,6,7
 
 
-2  - Binary Search: Break the task up into pieces
+2  - Binary Search: Break the task up into pieces, then ask comparison 
+question, then repeat the process until you find the answer. 
+
+Downside, needs to be sorted.
 
 Ex: Target number 7
 Binary example: Is it 5, "no to low", "is it 8", "to high", "is it 7"
