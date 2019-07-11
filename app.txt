@@ -45,3 +45,8 @@ Downside, needs to be sorted.
 
 Ex: Target number 7
 Binary example: Is it 5, "no to low", "is it 8", "to high", "is it 7"
+
+
+Big O - Theoretical definition of the complexity of an algorithm as a function of the size.
+(Notation used to deince complexity)
+O(n)- Order of magnitude of complexity, a function of the size
